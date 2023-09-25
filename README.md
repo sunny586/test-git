@@ -6,3 +6,5 @@ sunny586-test
 A开发一个新功能
 
 修复bug1
+
+修复bug2
