@@ -5,8 +5,8 @@ sunny586-test
 
 A开发一个新功能
 
-修复bug1
+fix bug 1
 
-修复bug2
+fix bug 2
 
-修复bug3
+fix bug 3
