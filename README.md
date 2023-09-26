@@ -12,6 +12,9 @@ A开发一个新功能
 6666
 
 777
+
 fix bug 1
 
 fix bug 2
+
+fix bug 3
